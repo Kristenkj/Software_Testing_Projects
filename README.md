@@ -1,6 +1,6 @@
 # Software-Testing-Projects
 
-This repository contains a list of all the manual testing projects I have completed. The projects were complete using a combination of manual testing techniques and test management tools. 
+This repository contains a list of all the manual testing projects I have completed. The projects were completed using a combination of manual testing techniques and test management tools. 
 
 ## Project List
 | Project Name | Description | Tools Used |
