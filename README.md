@@ -1,11 +1,11 @@
 # Software-Testing-Projects
 
-This repository contains a list of all the manual testing projects I have completed. The projects were completed using a combination of manual testing techniques and test management tools. 
+This repository contains a list of some of the manual testing projects I have completed. The projects were completed using a combination of manual testing techniques and test management tools. 
 
 ## Project List
-| Project Name | Description | Tools Used |
-|--------------|-------------|------------|
-| Project 1    | Tested a web application for functionality and usability. | Manual Testing, Test plan, Test cases, JIRA |
+| Project Name | Description | Tools Used | Activities Completed |
+|--------------|-------------|------------|----------------------|
+| Project 1    | Tested a web application for functionality and usability. | Test plan, Test cases, JIRA & Zephyr Scale | Created a test plan and test cases. Conducted testing |
 
 ## Getting Started
 
