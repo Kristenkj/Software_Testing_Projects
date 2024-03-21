@@ -1,6 +1,6 @@
 # Software-Testing-Projects
 
-This repository contains a list of some of the manual and automation testing projects I have completed. The projects were completed using a combination of manual, automation testing techniques, and test management tools. 
+This repository contains a list of some of the manual, API, and automation testing projects I have completed. The projects were completed using a combination of testing techniques, and test management tools. 
 
 ## Project List
 |  ID | Project Name | Description | Tools Used | Activities Completed |
