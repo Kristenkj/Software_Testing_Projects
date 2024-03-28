@@ -5,7 +5,7 @@ This repository contains a list of some of the manual, API, and automation testi
 ## Project List
 |  ID | Project Name | Description | Tools Used | Activities Completed |
 |-----|--------------|-------------|------------|----------------------|
-|  1  | OpenCart | Tested a web application for functionality and usability. | Test plan, Test cases, JIRA & Zephyr Scale | Created a test plan and test cases. Conducted testing |
+|  1  | Awesome | Tested a web application for functionality and usability. | Test plan, Test cases, JIRA & Zephyr Scale | Created a test plan and test cases. Conducted testing |
 |  2  | VWO |Tested a web application for functionality and usability. | Test plan, Test cases, JIRA & Zephyr Scale | Created a test plan and test cases. Conducted testing |
 |  3  | Awesome QA |Tested a web application for functionality and usability. | Test plan, Test cases, JIRA & Zephyr Scale | Created a test plan and test cases. Conducted testing |
 ## Getting Started
